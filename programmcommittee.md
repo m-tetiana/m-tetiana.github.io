@@ -12,7 +12,7 @@ permalink: /programmcommittee/
 
 ## Chairman of the Organizing Committee ##
 
-| Chairman |  |
+| |  |
 | ------ | ----------- |
 | Maruschak P.O. | (Ukraine) |
 
