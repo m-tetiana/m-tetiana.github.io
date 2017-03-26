@@ -206,6 +206,9 @@ img {
 .programmcommittee td,tr{
 	font-size: 16px;
 }
+.programmcommittee td{
+	padding:15px;
+}
 .programmcommittee td, tr, table, td, h2{
 	text-align: center;
 	margin:0 auto;
