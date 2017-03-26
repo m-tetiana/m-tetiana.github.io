@@ -209,8 +209,5 @@ img {
 .programmcommittee td, tr, table, td, h2{
 	text-align: center;
 	margin:0 auto;
-}
-.programmcommittee h2 {
-    text-align: center;
-    font-family: serif;
+	font-family:serif;
 }
