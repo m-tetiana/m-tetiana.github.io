@@ -200,7 +200,7 @@ img {
 	font-size: 15px;
 }
 .programmcommittee th,td{
-	padding: 5px 5 px;
+	padding: 5px 5px;
 }
 
 .programmcommittee td,tr{
@@ -209,10 +209,10 @@ img {
 .programmcommittee td, tr, table, td, h3{
 	text-align: center;
 }
-.programmcommittee .entry {
+.programmcommittee > .entry {
     text-align: center;
     font-family: serif;
 }
-.programmcommittee .entry table{
+.programmcommittee > .entry table{
 	margin:0 auto;
 }
