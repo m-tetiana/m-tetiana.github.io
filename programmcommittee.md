@@ -5,8 +5,8 @@ permalink: /programmcommittee/
 ---
 
 ## Co-Chairmen of the Program Committee ##
-
-
+| | |
+| ------------- | ------------- |
 | Yasniy P. V. | (Ukraine) |
 | Kharchenko V.V | (Ukraine) |
 
