@@ -19,7 +19,7 @@ permalink: /programmcommittee/
 
 ## Scientific secretary ##
 
-|Scientific secretary  |  |
+|  |  |
 | ------ | ----------- |
 | Okipnyi I.B. | (Ukraine) |
 
