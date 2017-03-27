@@ -205,12 +205,11 @@ img {
 
 .programmcommittee td, .programmcommittee tr{
 	font-size: 16px;
+	text-align: left;
 }
 .programmcommittee td, .programmcommittee tr, .programmcommittee table, .programmcommittee td, .programmcommittee h2{
 	text-align: center;
 	margin:0 auto;
 	font-family:serif;
 }
-.programmcommittee .entry table:firts-child td{
-text-align: left !important;
-}
+
