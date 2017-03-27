@@ -199,15 +199,18 @@ img {
 	text-align: left;
 	font-size: 15px;
 }
-.programmcommittee th,td{
+.programmcommittee th {
 	padding: 5px 5px;
 }
 
-.programmcommittee td,tr{
+.programmcommittee td, .programmcommittee tr{
 	font-size: 16px;
 }
-.programmcommittee td, tr, table, td, h2{
+.programmcommittee td, .programmcommittee tr, .programmcommittee table, .programmcommittee td, .programmcommittee h2{
 	text-align: center;
 	margin:0 auto;
 	font-family:serif;
+}
+.programmcommittee td{
+text-align: left !important;
 }
